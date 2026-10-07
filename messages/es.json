@@ -1,0 +1,308 @@
+{
+  "welcomeOverlay": {
+    "title": "Choose your language / Elige tu idioma / Sprache wählen",
+    "subtitle": "Selecciona tu idioma preferido para explorar mi portafolio de ingeniería.",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "suggested": "Sugerido",
+    "continue": "Continuar",
+    "skip": "Saltar",
+    "ariaLabel": "Selección de idioma de bienvenida"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "about": "Sobre mí",
+    "process": "Proceso",
+    "testimonials": "Testimonios",
+    "faq": "Preguntas",
+    "contact": "Contacto",
+    "servicesDropdownTitle": "Servicios Especializados",
+    "quickInquiry": "Consultar"
+  },
+  "hero": {
+    "badge": "Estudiante de Último Año de Ingeniería de Software | Pakistán",
+    "headlinePrefix": "Desarrollo apps web modernas,\napps móviles y te ayudo a ",
+    "headlineHighlight": "aprender.",
+    "bio": "Estudiante de último año de Ingeniería de Software y desarrollador freelance, ayudando a empresas, estudiantes e investigadores a transformar ideas en soluciones digitales prácticas. También ayudo a investigadores y estudiantes a humanizar la redacción asistida por IA para que suene más natural, clara y humana.",
+    "viewProjects": "Ver Proyectos",
+    "contactMe": "Contáctame",
+    "note": "Construyamos algo grandioso."
+  },
+  "stats": {
+    "internshipsValue": "2",
+    "internshipsLabel": "Pasantías Completadas",
+    "internshipsSublabel": "DevelopersHub Corporation & IT Software House",
+    "projectsValue": "3+",
+    "projectsLabel": "Proyectos Destacados",
+    "projectsSublabel": "Full stack, integración de IA y UI moderna"
+  },
+  "services": {
+    "badge": "Servicios y Capacidades",
+    "title": "Servicios Digitales Disponibles",
+    "subtitle": "Desarrollo práctico de alta calidad, orientación académica y refinamiento de contenido asistido por IA adaptado a tus necesidades.",
+    "inquireBtn": "Consultar Este Servicio",
+    "popularBadge": "Popular",
+    "startingFrom": "Desde",
+    "items": {
+      "webDev": {
+        "title": "Website Development",
+        "tag": "Para Empresas y Startups",
+        "description": "Aplicaciones web modernas y responsivas con React, Next.js, Node.js y bases de datos. Ideal para empresas, portafolios y startups.",
+        "bullets": [
+          "Frontend + Backend",
+          "Integración de Bases de Datos y API",
+          "Rápido, Adaptable y Optimizado para SEO"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "mobileDev": {
+        "title": "Mobile Application Development",
+        "tag": "iOS y Android",
+        "description": "Aplicaciones móviles multiplataforma con React Native o Flutter. Perfectas para MVPs, herramientas corporativas y soluciones a medida.",
+        "bullets": [
+          "Soporte para iOS y Android",
+          "Diseño de UI/UX Intuitivo",
+          "Sincronización en la Nube y APIs"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "presentation": {
+        "title": "Presentation Design",
+        "tag": "Profesional y Académico",
+        "description": "Diapositivas atractivas y visualmente pulidas para presentaciones de negocio, seminarios académicos y defensas técnicas.",
+        "bullets": [
+          "Estilo Visual Limpio y Moderno",
+          "Visualización de Datos y Diagramas",
+          "Estructura Fluida y Persuasiva"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "tutoring": {
+        "title": "Programming Tutoring & Mentoring",
+        "tag": "Para Estudiantes y Aprendices",
+        "description": "Sesiones individuales en línea para dominar conceptos, depurar código y estructurar tus propios proyectos de software.",
+        "bullets": [
+          "Explicación Clara de Conceptos",
+          "Revisión y Depuración de Código",
+          "Orientación en Estructura de Proyectos"
+        ],
+        "price": "Starting from EUR 10 / hour"
+      },
+      "assignment": {
+        "title": "Assignment Writer",
+        "tag": "Apoyo Académico y de Investigación",
+        "description": "Asistencia en redacción académica con estructura rigurosa, investigación sólida, formato adecuado y contenido claro.",
+        "bullets": [
+          "Organización Estructural Clara",
+          "Formato y Citas Rigurosas",
+          "Contenido Técnico Claro y Humano"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "aiHumanize": {
+        "title": "AI-to-Humanize",
+        "tag": "Para Investigadores y Estudiantes",
+        "description": "Haz que el contenido asistido por IA suene natural, auténtico y legible, preservando el significado técnico original.",
+        "bullets": [
+          "Tono y Cadencia Naturales",
+          "Preserva el Rigor Técnico Original",
+          "Elimina Frases Robóticas Repetitivas"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "other": {
+        "title": "Other",
+        "tag": "Soluciones a Medida",
+        "description": "Scripts personalizados, resolución de problemas técnicos, revisión de documentación o desarrollo a medida.",
+        "bullets": [
+          "Automatización y Scripts a Medida",
+          "Integración de APIs y Depuración",
+          "Asistencia Técnica Personalizada"
+        ],
+        "price": "Flexible Scope"
+      }
+    }
+  },
+  "projects": {
+    "badge": "Proyectos Destacados",
+    "title": "Proyectos de Ingeniería Seleccionados",
+    "subtitle": "Aplicaciones web reales, modelos de machine learning y herramientas interactivas diseñadas con arquitectura limpia.",
+    "viewScreenshots": "Ver Capturas",
+    "liveDemo": "Ver Demo",
+    "github": "Código GitHub",
+    "problemLabel": "Problema",
+    "roleLabel": "Rol",
+    "resultLabel": "Resultado",
+    "noImages": "Sin imágenes de vista previa disponibles",
+    "screenshotsCount": "{count} Capturas",
+    "screenshotSingle": "1 Captura",
+    "closeModal": "Cerrar galería",
+    "prevScreenshot": "Captura anterior",
+    "nextScreenshot": "Captura siguiente",
+    "zoomIn": "Acercar",
+    "zoomOut": "Alejar",
+    "items": {
+      "school-management-portal": {
+        "title": "School Management Portal",
+        "problem": "Las instituciones educativas necesitaban un portal unificado e intuitivo para alumnos, padres y docentes.",
+        "role": "Desarrollo full-stack, arquitectura de base de datos PostgreSQL y UI/UX adaptable.",
+        "result": "Un portal de alto rendimiento con control de acceso por roles, paneles en tiempo real y reportes académicos."
+      },
+      "scamshield-ai": {
+        "title": "ScamShield-AI",
+        "problem": "Creciente vulnerabilidad de usuarios ante ataques de phishing y fraudes financieros vía SMS y correo electrónico.",
+        "role": "Arquitectura frontend, visualización de riesgos en tiempo real e integración de modelos ML con FastAPI.",
+        "result": "Motor de detección de fraudes de alta precisión que analiza textos y enlaces sospechosos con evaluaciones instantáneas."
+      },
+      "ai-interview-website": {
+        "title": "AI Interview Website",
+        "problem": "Falta de plataformas interactivas para practicar entrevistas de trabajo con evaluación de voz en tiempo real.",
+        "role": "Desarrollo frontend, integración con Web Speech API e interfaz interactiva con analíticas de respuestas.",
+        "result": "Entorno realista de simulación de entrevistas con grabación de voz, preguntas dinámicas y puntuaciones inmediatas."
+      }
+    }
+  },
+  "about": {
+    "badge": "Sobre Mí",
+    "title": "Estudiante de Ingeniería y Desarrollador Freelance",
+    "lead": "Estudiante de último año de Ingeniería de Software y desarrollador freelance, ayudando a empresas, estudiantes e investigadores a transformar ideas en soluciones digitales prácticas. También ayudo a investigadores y estudiantes a humanizar la redacción asistida por IA para que suene más natural, clara y humana.",
+    "p1": "Me especializo en el desarrollo de aplicaciones web y móviles modernas, enfocándome en una arquitectura limpia, diseño adaptable y usabilidad real. Combinar los estudios universitarios de último año con proyectos reales para clientes me ha dado experiencia práctica entregando software confiable bajo plazos reales.",
+    "p2": "Además de la ingeniería de software, ayudo regularmente a estudiantes e investigadores con dudas de programación, estructura de proyectos y trabajos académicos técnicos. Al ser tan común el uso de herramientas de IA, también ofrezco el servicio AI-to-Humanize para refinar textos asistidos por IA, haciéndolos sonar naturales, auténticos y claros sin perder su rigor original.",
+    "highlightsTitle": "Puntos Destacados",
+    "highlights": [
+      "Estudiante de último año de BS Software Engineering",
+      "Desarrollador freelance con proyectos web y móviles en producción",
+      "Tutor de programación y mentor de proyectos académicos",
+      "Especialista en humanizar contenido asistido por IA"
+    ]
+  },
+  "process": {
+    "badge": "Cómo Trabajo",
+    "title": "Flujo de Trabajo Estructurado y Transparente",
+    "subtitle": "Desde la idea inicial hasta el despliegue final, cada proyecto sigue un proceso claro, predecible y bien comunicado.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Descubrimiento y Alcance",
+        "description": "Definimos objetivos, requerimientos técnicos, entregables y plazos desde el inicio con absoluta claridad."
+      },
+      {
+        "number": "02",
+        "title": "Arquitectura y Diseño",
+        "description": "Diseño de interfaces intuitivas y esquemas de datos optimizados para ofrecer máxima velocidad y estabilidad."
+      },
+      {
+        "number": "03",
+        "title": "Desarrollo y Pruebas",
+        "description": "Código limpio y modular construido con frameworks modernos, pruebas exhaustivas y avances periódicos."
+      },
+      {
+        "number": "04",
+        "title": "Despliegue y Soporte",
+        "description": "Lanzamiento a producción, optimización SEO y entrega con documentación completa y soporte post-lanzamiento."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Testimonios",
+    "title": "Lo que Opinan Clientes y Estudiantes",
+    "subtitle": "Comentarios reales de fundadores de startups, investigadores y alumnos con quienes he colaborado.",
+    "items": [
+      {
+        "name": "Hamza K.",
+        "role": "Fundador de Startup",
+        "content": "Altaf construyó nuestro MVP en Next.js antes de la fecha límite. El código quedó excepcionalmente estructurado y veloz en móviles."
+      },
+      {
+        "name": "Dra. Sarah M.",
+        "role": "Investigadora Académica",
+        "content": "El servicio de humanización de IA fue fundamental para nuestro artículo científico. Transformó frases mecánicas en prosa académica fluida y precisa."
+      },
+      {
+        "name": "Zubair A.",
+        "role": "Estudiante de Informática",
+        "content": "Las clases de mentoría de Altaf me ayudaron a comprender estructuras de datos complejas y consultas avanzadas. Un mentor paciente y muy práctico."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "Preguntas Frecuentes",
+    "title": "Respuestas a Dudas Comunes",
+    "subtitle": "Todo lo que necesitas saber sobre tecnologías, precios, plazos y sesiones de tutoría.",
+    "items": [
+      {
+        "question": "¿Qué tecnologías utilizas para desarrollo web y móvil?",
+        "answer": "En aplicaciones web trabajo con React, Next.js, TypeScript, Tailwind CSS, Node.js y PostgreSQL. Para aplicaciones móviles utilizo React Native o Flutter."
+      },
+      {
+        "question": "¿Cómo se gestionan los pagos y las etapas del proyecto?",
+        "answer": "El trabajo se divide en hitos claros. Se inicia con un depósito inicial y el resto se abona tras la aprobación de cada entrega acordada."
+      },
+      {
+        "question": "¿En qué consiste el servicio AI-to-Humanize?",
+        "answer": "Reviso borradores técnicos y académicos asistidos por IA oración por oración, eliminando frases robóticas y repeticiones sin alterar el contenido científico."
+      },
+      {
+        "question": "¿Cómo se programan las tutorías y asesorías?",
+        "answer": "Se imparten en línea mediante Google Meet o Zoom, con pantalla compartida, resolución colaborativa de ejercicios y explicación adaptada a tu temario."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Contacto",
+    "title": "Hablemos de tu próximo proyecto",
+    "subtitle": "Escríbeme por correo electrónico o utiliza el formulario a continuación y te responderé en menos de 24 horas.",
+    "emailLabel": "Correo Electrónico",
+    "copyEmail": "Copiar correo",
+    "copied": "¡Copiado!",
+    "availability": "Disponible para proyectos freelance y tutorías",
+    "responseTime": "Responde en menos de 24 horas",
+    "form": {
+      "title": "Enviar una Consulta",
+      "subtitle": "Completa el formulario a continuación y responderé en menos de 24 horas.",
+      "nameLabel": "Nombre Completo",
+      "namePlaceholder": "ej. Juan Pérez",
+      "emailLabel": "Correo Electrónico",
+      "emailPlaceholder": "ej. juan@ejemplo.com",
+      "serviceLabel": "Servicio",
+      "servicePlaceholder": "Selecciona un servicio...",
+      "budgetLabel": "Presupuesto (Opcional)",
+      "budgetPlaceholder": "ej. €30, €100 - €300, o Por hora",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Describe los requerimientos de tu proyecto o tus dudas de aprendizaje (mínimo 20 caracteres)...",
+      "messageMinHint": "Mínimo 20 caracteres",
+      "submitButton": "Enviar Consulta",
+      "submittingButton": "Enviando...",
+      "successTitle": "¡Consulta Enviada con Éxito!",
+      "successDesc": "¡Gracias por comunicarte! He recibido tu mensaje y te responderé en menos de 24 horas.",
+      "errorTitle": "Error al Enviar Consulta",
+      "errorDesc": "Ocurrió un error al enviar el mensaje. Por favor intenta de nuevo o escríbeme directamente a Altafnadir33@gmail.com.",
+      "errors": {
+        "nameRequired": "El nombre completo es obligatorio.",
+        "nameTooLong": "El nombre no puede exceder 100 caracteres.",
+        "emailRequired": "El correo electrónico es obligatorio.",
+        "emailInvalid": "Ingresa una dirección de correo válida.",
+        "serviceRequired": "Por favor selecciona un servicio.",
+        "messageRequired": "El mensaje es obligatorio.",
+        "messageMinLength": "El mensaje debe contener al menos 20 caracteres.",
+        "messageTooLong": "El mensaje no puede exceder 5,000 caracteres."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Estudiante de Ingeniería de Software, desarrollador Full Stack & Móvil y tutor creando soluciones digitales escalables.",
+    "rights": "Todos los derechos reservados.",
+    "quickLinks": "Enlaces Rápidos",
+    "servicesTitle": "Servicios",
+    "connectTitle": "Conectar"
+  },
+  "notFound": {
+    "badge": "Error 404",
+    "title": "Página No Encontrada",
+    "description": "La página que buscas no existe o ha sido movida.",
+    "backHome": "Volver al Inicio"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "welcomeOverlay": {
+    "title": "Choose your language / Elige tu idioma / Sprache wählen",
+    "subtitle": "Wählen Sie Ihre bevorzugte Sprache, um mein Software-Engineering-Portfolio zu erkunden.",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "suggested": "Vorgeschlagen",
+    "continue": "Weiter",
+    "skip": "Überspringen",
+    "ariaLabel": "Willkommen Sprachauswahl"
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "about": "Über mich",
+    "process": "Ablauf",
+    "testimonials": "Referenzen",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "servicesDropdownTitle": "Spezialisierte Leistungen",
+    "quickInquiry": "Anfragen"
+  },
+  "hero": {
+    "badge": "Software-Engineering-Student im Abschlussjahr | Pakistan",
+    "headlinePrefix": "Ich entwickle moderne Web-Apps,\nmobile Apps und helfe Ihnen beim ",
+    "headlineHighlight": "Lernen.",
+    "bio": "Software-Engineering-Student im Abschlussjahr und freiberuflicher Entwickler. Ich helfe Unternehmen, Studierenden und Forschenden, Ideen in praxisnahe digitale Lösungen umzusetzen. Zudem unterstütze ich Forschende dabei, KI-gestützte Texte natürlicher und präziser zu formulieren.",
+    "viewProjects": "Projekte ansehen",
+    "contactMe": "Kontakt aufnehmen",
+    "note": "Lassen Sie uns etwas Großartiges bauen."
+  },
+  "stats": {
+    "internshipsValue": "2",
+    "internshipsLabel": "Praktika absolviert",
+    "internshipsSublabel": "DevelopersHub Corporation & IT Software House",
+    "projectsValue": "3+",
+    "projectsLabel": "Ausgewählte Projekte",
+    "projectsSublabel": "Full-Stack, KI-Integration und modernes UI"
+  },
+  "services": {
+    "badge": "Leistungen & Kompetenzen",
+    "title": "Verfügbare Digitale Dienstleistungen",
+    "subtitle": "Praxisnahe Entwicklung in hoher Qualität, akademische Beratung und präzise KI-Textoptimierung nach Ihren Anforderungen.",
+    "inquireBtn": "Diese Leistung anfragen",
+    "popularBadge": "Beliebt",
+    "startingFrom": "Ab",
+    "items": {
+      "webDev": {
+        "title": "Website Development",
+        "tag": "Für Unternehmen & Startups",
+        "description": "Moderne, responsive Web-Anwendungen mit React, Next.js, Node.js und Datenbanken. Ideal für Unternehmen, Portfolios und Startups.",
+        "bullets": [
+          "Frontend + Backend",
+          "Datenbank- & API-Integration",
+          "Schnell, responsiv & SEO-optimiert"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "mobileDev": {
+        "title": "Mobile Application Development",
+        "tag": "iOS & Android",
+        "description": "Plattformübergreifende mobile Apps mit React Native oder Flutter. Perfekt für MVPs, Business-Tools und individuelle mobile Lösungen.",
+        "bullets": [
+          "Unterstützung für iOS & Android",
+          "Intuitives UI/UX-Design",
+          "API- & Cloud-Synchronisierung"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "presentation": {
+        "title": "Presentation Design",
+        "tag": "Professionell & Akademisch",
+        "description": "Visuell ansprechende und überzeugende Foliensätze für Business-Pitches, akademische Seminare und technische Projektverteidigungen.",
+        "bullets": [
+          "Klarer, moderner visueller Stil",
+          "Daten- & Diagramm-Visualisierung",
+          "Strukturierter & überzeugender Aufbau"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "tutoring": {
+        "title": "Programming Tutoring & Mentoring",
+        "tag": "Für Studierende & Lernende",
+        "description": "Individuelle Online-Sitzungen zum Verständnis komplexer Konzepte, zur Fehlerbehebung und zur Strukturierung von Softwareprojekten.",
+        "bullets": [
+          "Verständliche Konzept-Erklärungen",
+          "Code-Review & gezieltes Debugging",
+          "Anleitung zur Projektarchitektur"
+        ],
+        "price": "Starting from EUR 10 / hour"
+      },
+      "assignment": {
+        "title": "Assignment Writer",
+        "tag": "Akademische Unterstützung",
+        "description": "Unterstützung bei wissenschaftlichen Ausarbeitungen mit klarer Gliederung, fundierter Recherche, korrekter Formatierung und präziser Sprache.",
+        "bullets": [
+          "Klare strukturelle Organisation",
+          "Korrekte Formatierung & Zitation",
+          "Verständliche technische Inhalte"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "aiHumanize": {
+        "title": "AI-to-Humanize",
+        "tag": "Für Forschende & Studierende",
+        "description": "Optimieren Sie KI-generierte Inhalte so, dass sie natürlich und flüssig klingen, während der technische Sinn vollständig erhalten bleibt.",
+        "bullets": [
+          "Natürlicher Tonfall & Satzrhythmus",
+          "Bewahrt die exakte technische Bedeutung",
+          "Entfernt stereotype KI-Formulierungen"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "other": {
+        "title": "Other",
+        "tag": "Individuelle Lösungen",
+        "description": "Maßgeschneiderte Skripte, technische Fehlerbehebung, Dokumentationsprüfung oder individuelle Software-Engineering-Arbeiten.",
+        "bullets": [
+          "Individuelle Skripte & Automatisierung",
+          "API-Integration & Fehleranalyse",
+          "Passgenaue technische Unterstützung"
+        ],
+        "price": "Flexible Scope"
+      }
+    }
+  },
+  "projects": {
+    "badge": "Ausgewählte Arbeiten",
+    "title": "Ausgewählte Software-Projekte",
+    "subtitle": "Praxiserprobte Web-Apps, Machine-Learning-Systeme und interaktive Tools mit sauberer Architektur und modernem Technologie-Stack.",
+    "viewScreenshots": "Screenshots ansehen",
+    "liveDemo": "Live-Demo",
+    "github": "GitHub-Code",
+    "problemLabel": "Problemstellung",
+    "roleLabel": "Rolle",
+    "resultLabel": "Ergebnis",
+    "noImages": "Keine Vorschau-Bilder verfügbar",
+    "screenshotsCount": "{count} Screenshots",
+    "screenshotSingle": "1 Screenshot",
+    "closeModal": "Galerie schließen",
+    "prevScreenshot": "Vorheriger Screenshot",
+    "nextScreenshot": "Nächster Screenshot",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "items": {
+      "school-management-portal": {
+        "title": "School Management Portal",
+        "problem": "Schulen benötigten ein intuitives, zentrales Portal für Schüler, Eltern und Lehrkräfte zur Verwaltung von Noten und Stundenplänen.",
+        "role": "Full-Stack-Entwicklung, PostgreSQL-Datenbankarchitektur und responsives UI/UX.",
+        "result": "Ein leistungsfähiges Portal mit rollenbasierter Zugriffskontrolle, Echtzeit-Dashboards und automatisierter Notenberichterstattung."
+      },
+      "scamshield-ai": {
+        "title": "ScamShield-AI",
+        "problem": "Nutzer fielen vermehrt auf gezielte Phishing-Angriffe und betrügerische Finanznachrichten per SMS und E-Mail herein.",
+        "role": "Frontend-Architektur, Echtzeit-Risikovisualisierung und FastAPI-Machine-Learning-Integration.",
+        "result": "Hochpräzise Betrugserkennungs-Engine zur Analyse verdächtiger Texte und Links mit sofortiger Risikobewertung."
+      },
+      "ai-interview-website": {
+        "title": "AI Interview Website",
+        "problem": "Bewerber und Studierende hatten keinen Zugang zu realistischen Vorstellungsgesprächs-Simulationen mit direktem Sprach-Feedback.",
+        "role": "Frontend-Entwicklung, Web Speech API-Integration und interaktive Benutzeroberfläche mit Antwortanalysen.",
+        "result": "Realitätsnahe Interview-Plattform mit Sprachaufzeichnung, dynamischen Fragen und sofortiger Auswertung."
+      }
+    }
+  },
+  "about": {
+    "badge": "Über mich",
+    "title": "Software-Engineering-Student & Freiberuflicher Entwickler",
+    "lead": "Software-Engineering-Student im Abschlussjahr und freiberuflicher Entwickler. Ich helfe Unternehmen, Studierenden und Forschenden, Ideen in praxisnahe digitale Lösungen umzusetzen. Zudem unterstütze ich Forschende dabei, KI-gestützte Texte natürlicher und präziser zu formulieren.",
+    "p1": "Mein Schwerpunkt liegt auf moderner Web- und Mobile-App-Entwicklung mit Fokus auf saubere Architektur, Reaktionsschnelligkeit und praktische Nutzbarkeit. Die Verbindung von anspruchsvollem Universitätsstudium mit echten Kundenprojekten ermöglicht mir, zuverlässige Software unter realen Fristen abzuliefern.",
+    "p2": "Neben der Softwareentwicklung unterstütze ich regelmäßig Studierende und Forschende bei Programmierfragen, Projektstrukturierung und technischen Aufgaben. Da KI-Tools allgegenwärtig sind, biete ich zudem den AI-to-Humanize-Service an, um KI-gestützte Texte lesefreundlich und wissenschaftlich präzise zu verfeinern.",
+    "highlightsTitle": "Wichtigste Eckdaten",
+    "highlights": [
+      "BS Software Engineering im Abschlussjahr",
+      "Freiberuflicher Entwickler für praxiserprobte Web- & Mobile-Apps",
+      "Programmier-Tutor & Mentor für akademische Softwareprojekte",
+      "Spezialist für das Humanisieren von KI-gestützten Fachtexten"
+    ]
+  },
+  "process": {
+    "badge": "Vorgehensweise",
+    "title": "Strukturierter & transparenter Ablauf",
+    "subtitle": "Von der ersten Idee bis zum finalen Deployment folgt jedes Projekt einem klaren, nachvollziehbaren Prozess.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Analyse & Anforderungsdefinition",
+        "description": "Wir definieren Ziele, technische Anforderungen, Meilensteine und Zeitpläne von Beginn an transparent."
+      },
+      {
+        "number": "02",
+        "title": "Architektur & Prototyping",
+        "description": "Erstellung intuitiver UI/UX-Konzepte und robuster Datenbankschemata für maximale Performance."
+      },
+      {
+        "number": "03",
+        "title": "Entwicklung & Testing",
+        "description": "Sauberer, modularer Code mit modernen Frameworks, gründliche Tests von Grenzfällen und regelmäßige Status-Updates."
+      },
+      {
+        "number": "04",
+        "title": "Deployment & Support",
+        "description": "Reibungsloser Produktionsstart, SEO-Optimierung, vollständige Dokumentation und zuverlässige Nachbetreuung."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Referenzen",
+    "title": "Was Kunden & Studierende sagen",
+    "subtitle": "Echtes Feedback von Startup-Gründern, Forschenden und Studierenden aus unserer Zusammenarbeit.",
+    "items": [
+      {
+        "name": "Hamza K.",
+        "role": "Startup-Gründer",
+        "content": "Altaf hat unser MVP in Next.js noch vor der Frist fertiggestellt. Der Code war exzellent strukturiert, performant und auf allen mobilen Geräten reaktionsschnell."
+      },
+      {
+        "name": "Dr. Sarah M.",
+        "role": "Wissenschaftliche Forscherin",
+        "content": "Der AI-to-Humanize-Service war für unsere Publikation unersetzlich. Er hat mechanische Formulierungen in flüssiges akademisches Englisch transformiert."
+      },
+      {
+        "name": "Zubair A.",
+        "role": "Informatik-Student",
+        "content": "Dank Altafs Nachhilfestunden habe ich komplexe Datenstrukturen und Datenbankabfragen endlich verstanden. Ein sehr geduldiger und praxisnaher Mentor."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Klare Antworten zu Leistungen, Preisen, Zeitplänen und Nachhilfestunden.",
+    "items": [
+      {
+        "question": "Welche Technologien nutzen Sie für Web- und Mobile-Entwicklung?",
+        "answer": "Für Web-Anwendungen arbeite ich hauptsächlich mit React, Next.js, TypeScript, Tailwind CSS, Node.js und PostgreSQL. Für mobile Apps setze ich auf React Native oder Flutter."
+      },
+      {
+        "question": "Wie läuft die Bezahlung und Meilenstein-Planung ab?",
+        "answer": "Größere Projekte werden in transparente Meilensteine unterteilt. Die Entwicklung startet mit einer Anzahlung, und Teilzahlungen erfolgen nach Freigabe der jeweiligen Etappen."
+      },
+      {
+        "question": "Wie funktioniert der AI-to-Humanize-Service?",
+        "answer": "Ich prüfe KI-generierte Texte Satz für Satz, beseitige repetitive Floskeln und künstliche Rhythmen, während alle wissenschaftlichen und technischen Details exakt erhalten bleiben."
+      },
+      {
+        "question": "Können Nachhilfestunden online vereinbart werden?",
+        "answer": "Ja! Sitzungen finden via Google Meet oder Zoom statt – inklusive Screen-Sharing, gemeinsamem Live-Debugging und Erklärungen, die genau auf Ihren Lehrplan abgestimmt sind."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Kontakt",
+    "title": "Lassen Sie uns über Ihr nächstes Projekt sprechen",
+    "subtitle": "Schreiben Sie mir per E-Mail oder nutzen Sie das untenstehende Formular – ich antworte innerhalb von 24 Stunden.",
+    "emailLabel": "E-Mail-Adresse",
+    "copyEmail": "E-Mail kopieren",
+    "copied": "Kopiert!",
+    "availability": "Verfügbar für freiberufliche Projekte & Nachhilfe",
+    "responseTime": "Antwort innerhalb von 24 Stunden",
+    "form": {
+      "title": "Anfrage senden",
+      "subtitle": "Füllen Sie das untenstehende Formular aus – ich antworte innerhalb von 24 Stunden.",
+      "nameLabel": "Vollständiger Name",
+      "namePlaceholder": "z. B. Max Mustermann",
+      "emailLabel": "E-Mail-Adresse",
+      "emailPlaceholder": "z. B. max@beispiel.de",
+      "serviceLabel": "Leistung",
+      "servicePlaceholder": "Leistung auswählen...",
+      "budgetLabel": "Budget (Optional)",
+      "budgetPlaceholder": "z. B. 30 €, 100 € - 300 € oder Stundensatz",
+      "messageLabel": "Nachricht",
+      "messagePlaceholder": "Beschreiben Sie Ihre Projektanforderungen oder Lernziele (mindestens 20 Zeichen)...",
+      "messageMinHint": "Mindestens 20 Zeichen",
+      "submitButton": "Anfrage absenden",
+      "submittingButton": "Wird gesendet...",
+      "successTitle": "Anfrage erfolgreich gesendet!",
+      "successDesc": "Vielen Dank für Ihre Nachricht! Ich habe sie erhalten und melde mich innerhalb von 24 Stunden bei Ihnen.",
+      "errorTitle": "Fehler beim Senden der Anfrage",
+      "errorDesc": "Beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder schreiben Sie mir direkt an Altafnadir33@gmail.com.",
+      "errors": {
+        "nameRequired": "Der vollständige Name ist erforderlich.",
+        "nameTooLong": "Der Name darf maximal 100 Zeichen lang sein.",
+        "emailRequired": "Die E-Mail-Adresse ist erforderlich.",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "serviceRequired": "Bitte wählen Sie eine Leistung aus.",
+        "messageRequired": "Die Nachricht ist erforderlich.",
+        "messageMinLength": "Die Nachricht muss mindestens 20 Zeichen enthalten.",
+        "messageTooLong": "Die Nachricht darf maximal 5.000 Zeichen lang sein."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Software-Engineering-Student, Full-Stack- & Mobile-Entwickler und Tutor für skalierbare digitale Lösungen.",
+    "rights": "Alle Rechte vorbehalten.",
+    "quickLinks": "Direktlinks",
+    "servicesTitle": "Leistungen",
+    "connectTitle": "Netzwerk"
+  },
+  "notFound": {
+    "badge": "404 Fehler",
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zurück zur Startseite"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "welcomeOverlay": {
+    "title": "Choose your language / Elige tu idioma / Sprache wählen",
+    "subtitle": "Select your preferred language to explore my engineering portfolio.",
+    "english": "English",
+    "spanish": "Español",
+    "german": "Deutsch",
+    "suggested": "Suggested",
+    "continue": "Continue",
+    "skip": "Skip",
+    "ariaLabel": "Welcome language selection"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "process": "Process",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "servicesDropdownTitle": "Specialized Services",
+    "quickInquiry": "Inquire"
+  },
+  "hero": {
+    "badge": "Final Year Software Engineering Student | Pakistan",
+    "headlinePrefix": "I build modern web apps,\nmobile apps and help you ",
+    "headlineHighlight": "learn.",
+    "bio": "Final-year Software Engineering student and freelance developer, helping businesses, students, and researchers turn ideas into practical digital solutions. I also help researchers and students make AI-assisted writing more natural, clear, and human.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me",
+    "note": "Let's build something great."
+  },
+  "stats": {
+    "internshipsValue": "2",
+    "internshipsLabel": "Internships Completed",
+    "internshipsSublabel": "DevelopersHub Corporation & IT Software House",
+    "projectsValue": "3+",
+    "projectsLabel": "Featured Projects",
+    "projectsSublabel": "Full stack, AI integration, and modern UI"
+  },
+  "services": {
+    "badge": "Services & Capabilities",
+    "title": "Available Digital Services",
+    "subtitle": "Practical, high-quality development, academic guidance, and AI-content refinement tailored to your needs.",
+    "inquireBtn": "Inquire About This Service",
+    "popularBadge": "Popular",
+    "startingFrom": "Starting from",
+    "items": {
+      "webDev": {
+        "title": "Website Development",
+        "tag": "For Businesses & Startups",
+        "description": "Modern, responsive web apps using React, Next.js, Node.js and databases. Perfect for businesses, portfolios, and startups.",
+        "bullets": [
+          "Frontend + Backend",
+          "Database & API Integration",
+          "Fast, Responsive & SEO-Ready"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "mobileDev": {
+        "title": "Mobile Application Development",
+        "tag": "iOS & Android",
+        "description": "Cross-platform mobile apps with React Native or Flutter. Great for MVPs, business tools, and custom mobile solutions.",
+        "bullets": [
+          "iOS & Android Support",
+          "Intuitive UI/UX Design",
+          "API & Cloud Synchronization"
+        ],
+        "price": "Starting from EUR 30"
+      },
+      "presentation": {
+        "title": "Presentation Design",
+        "tag": "Professional & Academic",
+        "description": "Visually polished, engaging slide decks for business pitches, academic seminars, and technical project defenses.",
+        "bullets": [
+          "Clean, Modern Visual Style",
+          "Data & Diagram Visualization",
+          "Structured & Persuasive Flow"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "tutoring": {
+        "title": "Programming Tutoring & Mentoring",
+        "tag": "For Students & Learners",
+        "description": "One-to-one online sessions to understand concepts, debug code, and structure your own software projects.",
+        "bullets": [
+          "Concept Explanation & Walkthrough",
+          "Code Review & Debugging",
+          "Project Structure Guidance"
+        ],
+        "price": "Starting from EUR 10 / hour"
+      },
+      "assignment": {
+        "title": "Assignment Writer",
+        "tag": "Academic & Research Support",
+        "description": "Academic writing and assignment assistance with clear structure, research support, formatting, and human-readable content.",
+        "bullets": [
+          "Clear Structural Organization",
+          "Proper Formatting & Citations",
+          "Human-Readable Technical Content"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "aiHumanize": {
+        "title": "AI-to-Humanize",
+        "tag": "For Researchers & Students",
+        "description": "Make AI-assisted content sound more natural, readable, and human while preserving the original meaning.",
+        "bullets": [
+          "Natural Tone & Cadence",
+          "Preserves Core Technical Meaning",
+          "Eliminates Robotic Phrasing"
+        ],
+        "price": "Starting from EUR 15"
+      },
+      "other": {
+        "title": "Other",
+        "tag": "Custom Solutions",
+        "description": "Custom scripts, technical troubleshooting, documentation review, or tailored software engineering work.",
+        "bullets": [
+          "Custom Scripting & Automation",
+          "API Integration & Debugging",
+          "Tailored Technical Assistance"
+        ],
+        "price": "Flexible Scope"
+      }
+    }
+  },
+  "projects": {
+    "badge": "Featured Work",
+    "title": "Selected Engineering Projects",
+    "subtitle": "Real-world web apps, machine learning systems, and interactive tools built with clean architecture and modern stacks.",
+    "viewScreenshots": "View Screenshots",
+    "liveDemo": "Live Demo",
+    "github": "GitHub Code",
+    "problemLabel": "Problem",
+    "roleLabel": "Role",
+    "resultLabel": "Result",
+    "noImages": "No preview images available",
+    "screenshotsCount": "{count} Screenshots",
+    "screenshotSingle": "1 Screenshot",
+    "closeModal": "Close project gallery",
+    "prevScreenshot": "Previous screenshot",
+    "nextScreenshot": "Next screenshot",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "items": {
+      "school-management-portal": {
+        "title": "School Management Portal",
+        "problem": "Schools needed an intuitive, centralized portal for students, parents, and teachers to track attendance, grades, and schedules.",
+        "role": "Full-stack development, PostgreSQL database architecture, and responsive UI/UX.",
+        "result": "A high-performance portal with secure role-based access control, responsive dashboards, and grade reporting."
+      },
+      "scamshield-ai": {
+        "title": "ScamShield-AI",
+        "problem": "Users were increasingly falling victim to sophisticated phishing campaigns and financial fraud through SMS and emails.",
+        "role": "Frontend architecture, real-time risk visualization, and FastAPI machine learning integration.",
+        "result": "High-accuracy scam detection engine that parses suspicious text/links and delivers instant risk assessments."
+      },
+      "ai-interview-website": {
+        "title": "AI Interview Website",
+        "problem": "Job seekers and students lacked interactive, realistic interview practice with real-time speech feedback and scoring.",
+        "role": "Frontend development, Web Speech API integration, and interactive question analytics UI.",
+        "result": "Realistic mock interview interface with voice response recording, dynamic questions, and instant scorecards."
+      }
+    }
+  },
+  "about": {
+    "badge": "About Me",
+    "title": "Engineering Student & Freelance Developer",
+    "lead": "Final-year Software Engineering student and freelance developer, helping businesses, students, and researchers turn ideas into practical digital solutions. I also help researchers and students make AI-assisted writing more natural, clear, and human.",
+    "p1": "I specialize in modern web and mobile application development, focusing on clean architecture, responsiveness, and practical usability. Balancing rigorous final-year university coursework with client projects has given me hands-on experience delivering reliable software under real deadlines.",
+    "p2": "In addition to software engineering, I regularly assist students and researchers with coding problems, project structuring, and technical coursework. Recognizing how widespread AI assistance has become, I also provide an AI-to-Humanize service to help researchers and students refine AI-assisted writing into natural, authentic, and clear prose while preserving its original meaning.",
+    "highlightsTitle": "Quick Highlights",
+    "highlights": [
+      "Final-year BS Software Engineering student",
+      "Freelance developer building real-world web & mobile apps",
+      "Programming tutor & academic project mentor",
+      "AI-to-Humanize specialist for researchers & students"
+    ]
+  },
+  "process": {
+    "badge": "How I Work",
+    "title": "Structured & Transparent Workflow",
+    "subtitle": "From initial discovery to final deployment, every project follows a clear, reliable, and communicative process.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discovery & Scoping",
+        "description": "We define goals, technical requirements, deliverables, and timelines upfront with complete clarity."
+      },
+      {
+        "number": "02",
+        "title": "Architecture & Design",
+        "description": "Creating intuitive UI/UX wireframes and database schemas designed for stability and fast user experiences."
+      },
+      {
+        "number": "03",
+        "title": "Development & Testing",
+        "description": "Clean, modular code built with modern frameworks, rigorous edge-case testing, and continuous progress updates."
+      },
+      {
+        "number": "04",
+        "title": "Deployment & Support",
+        "description": "Smooth production release, SEO optimization, and handover with full documentation and post-launch support."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Testimonials",
+    "title": "What Clients & Students Say",
+    "subtitle": "Real feedback from startup founders, researchers, and students I've collaborated with.",
+    "items": [
+      {
+        "name": "Hamza K.",
+        "role": "Startup Founder",
+        "content": "Altaf built our MVP in Next.js ahead of schedule. The code was exceptionally well-structured, fast, and responsive across all mobile devices."
+      },
+      {
+        "name": "Dr. Sarah M.",
+        "role": "Academic Researcher",
+        "content": "The AI-to-Humanize service was invaluable for our paper. It refined robotic phrasing into natural academic prose while preserving every technical nuance."
+      },
+      {
+        "name": "Zubair A.",
+        "role": "CS Undergraduate",
+        "content": "Altaf's tutoring sessions made complex data structures and backend database queries click for me. Extremely patient and practical mentor."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Clear answers to common questions about services, pricing, timelines, and collaboration.",
+    "items": [
+      {
+        "question": "What technologies do you use for web and mobile development?",
+        "answer": "For web applications, I primarily work with React, Next.js, TypeScript, Tailwind CSS, Node.js, and PostgreSQL. For mobile applications, I use React Native or Flutter."
+      },
+      {
+        "question": "How do payments and project milestones work?",
+        "answer": "For standard development projects, work is broken into clear milestones. Initial work begins with an upfront deposit, and the remainder is paid upon milestone approvals."
+      },
+      {
+        "question": "How does the AI-to-Humanize service work?",
+        "answer": "I review AI-assisted research and technical drafts sentence-by-sentence, eliminating robotic patterns, unnatural cadence, and repetition while maintaining technical accuracy."
+      },
+      {
+        "question": "Can we schedule tutoring or mentoring online?",
+        "answer": "Yes! Tutoring is conducted via Google Meet or Zoom, with live screen sharing, collaborative code debugging, and concept walkthroughs tailored to your syllabus."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Let's talk about your next project",
+    "subtitle": "Write to me by email or use the form below and I will reply within 24 hours.",
+    "emailLabel": "Email Address",
+    "copyEmail": "Copy email",
+    "copied": "Copied!",
+    "availability": "Available for freelance projects & tutoring",
+    "responseTime": "Replies within 24 hours",
+    "form": {
+      "title": "Send an Inquiry",
+      "subtitle": "Fill out the form below and I'll respond within 24 hours.",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "e.g. John Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "e.g. john@example.com",
+      "serviceLabel": "Service",
+      "servicePlaceholder": "Select a service...",
+      "budgetLabel": "Budget (Optional)",
+      "budgetPlaceholder": "e.g. €30, €100 - €300, or Hourly",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Describe your project requirements, questions, or learning goals (minimum 20 characters)...",
+      "messageMinHint": "Minimum 20 characters",
+      "submitButton": "Send Inquiry",
+      "submittingButton": "Sending...",
+      "successTitle": "Inquiry Sent Successfully!",
+      "successDesc": "Thank you for reaching out! I have received your message and will reply within 24 hours.",
+      "errorTitle": "Failed to Send Inquiry",
+      "errorDesc": "Something went wrong while sending your inquiry. Please try again or write directly to Altafnadir33@gmail.com.",
+      "errors": {
+        "nameRequired": "Full Name is required.",
+        "nameTooLong": "Name must not exceed 100 characters.",
+        "emailRequired": "Email is required.",
+        "emailInvalid": "Please enter a valid email address.",
+        "serviceRequired": "Please select a service.",
+        "messageRequired": "Message is required.",
+        "messageMinLength": "Message must contain at least 20 characters.",
+        "messageTooLong": "Message must not exceed 5,000 characters."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Software Engineering student, Full Stack & Mobile Developer, and tutor building fast, scalable digital solutions.",
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "servicesTitle": "Services",
+    "connectTitle": "Connect"
+  },
+  "notFound": {
+    "badge": "404 Error",
+    "title": "Page Not Found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}
